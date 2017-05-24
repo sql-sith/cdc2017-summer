@@ -1,0 +1,21 @@
+1. Fibonacci
+
+The Fibonacci series starts with 1, 1, and then each successive number is the sum of the
+previous two. Write a script where you can supply a variable n that is an int, and the
+program will calculate the nth Fibonacci number.
+
+Eg: Fibonacci(5) = 5
+    Fibonacci(20) = 6765
+
+
+2. Square root
+
+Write a script that can calculate the square root of a number n by trial and error.
+Find a way to determine if your current best guess is too low, too high, or "close
+enough," meaning that if you square your candidate number, then you get an answer
+within 0.001 of the target n.
+
+Keenan, Samuel, Isaac, Nick, Josh, Michael
+Put this stuff on github
+Include example of interesting books
+Include visual python editor (online debugger)
